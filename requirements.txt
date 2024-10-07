@@ -1,0 +1,8 @@
+streamlit
+PyPDF2
+google-generativeai
+opencv-python
+opencv-contrib-python
+python-docx
+dlib
+numpy
